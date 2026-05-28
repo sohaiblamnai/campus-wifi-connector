@@ -17,7 +17,7 @@ This script uses `nmcli` (NetworkManager Command Line Interface) and is optimize
 1. **Clone the repository**
    Open your terminal and download the script:
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/campus-wifi-connector.git](https://github.com/YOUR_USERNAME/campus-wifi-connector.git)
+   git clone https://github.com/sohaiblamnai/campus-wifi-connector.git
    cd wifi_campus.sh 
 
 2. Make the script executable
