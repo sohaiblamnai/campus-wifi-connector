@@ -1,6 +1,6 @@
-# 🛜 FSR Campus Connectee - Auto Login
+# 🛜 Campus Connectee- Auto Login
 
-A lightweight and secure automation script to instantly connect to the **Campus Connectee** WiFi network at the Faculty of Sciences in Rabat (FSR). 
+A lightweight and secure automation script to instantly connect to the **Campus Connectee** WiFi network across all public universities in Morocco.
 
 No more typing your student ID and password manually every time you open your laptop on campus!
 
@@ -18,7 +18,7 @@ This script uses `nmcli` (NetworkManager Command Line Interface) and is optimize
    Open your terminal and download the script:
 ```bash
    git clone https://github.com/sohaiblamnai/campus-wifi-connector.git
-   cd wifi_campus.sh 
+   cd campus-wifi-connector
 
 2. Make the script executable
 
